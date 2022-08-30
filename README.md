@@ -2,44 +2,54 @@
 
 # Prep Course
 
+¡Hola! Bienvenido al Prep Course para la carrera de Data Science. 
+
+En este curso introductorio podrás aprender todo el contenido que luego será evaluado en el Henry Challenge, el último paso para ingresar a la carrera de Data Science en Henry. 
+
+¿Qué es el Prep Course? 
+El Prep Course, o curso preparatorio, es un curso que diseñamos desde Henry con la finalidad de nivelar a todos nuestros aplicantes. La idea es que con este curso puedas dar tus primeros pasos en tecnología y así aprender esos conceptos básicos que serán necesarios para cuando estés dentro de la carrera. 
+
+¿En qué consiste el Prep Course? 
+El curso consiste en una serie de videos, material escrito y ejercicios para que puedas ir aprendiendo estos conceptos básicos de Python y Matemática Todo el material de Python se encuentra aqui, en este repositorio (data.prep.soyhenry.com). Una vez que hayas terminado de estudiarlo, podrás continuar con el contenido de matemática que se encuentra en: math.prep.soyhenry.com
+Podrás ir avanzando con el contenido a tu ritmo y de manera asincrónica (es decir, en los horarios y tiempos que tu prefieras). Cuando hayas finalizado, podrás inscribirte para realizar el Henry Challenge. 
+
+¿Qué es el Henry Challenge? 
+Es un examen donde evaluamos los conceptos que se aprenden en el Prep Course. El examen tiene la finalidad de asegurarnos que realmente se han aprendido estos conceptos, dado que tenerlos bien claro es la clave de éxito para que puedas avanzar bien dentro de la carrera. 
+El examen se realiza los días sábados cada dos semanas, previa inscripción en el siguiente enlace (https://us02web.zoom.us/j/87687315275). Podrás rendirlo todas las veces que quieras. Para más información, puedes ir a la sección del challenge. 
+
+¿Qué puedo hacer si tengo dudas? 
+Contamos con Slack: una plataforma de comunicación donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a slack desde los mails que recibiste al aplicar a la carrera. Más adelante te explicaremos cómo usar la herramienta. 
+
+Entonces, ¿qué debo hacer ahora para avanzar con el proceso? 
+Debes comenzar a ver todos los videos, el material escrito y a hacer los ejercicios, siguiendo el orden postulado aquí en el curso. Una vez que hayas finalizado, pasarás al material de matemática y luego podrás realizar el Henry Challenge. 
+
+
+Cualquier duda, nos puedes escribir a admisiones@soyhenry.com
+¡Muchos éxitos!
+
+
+
 ## Open House
+
+En este video podrás conocer más sobre Henry, la carrera de Data Science y el proceso de admisión. 
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/682041440" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-## Grabación de la Introducción
-
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/683357530" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/742453617?h=28c415e214" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-## PASOS PARA RESOLVER EL HENRY CHALLENGE:
+<div class="iframeContainer">
+ <iframe src="https://player.vimeo.com/video/742456588?h=4c7e7f7180" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
-### 1. FORK
+El Henry Challenge se realiza los sabados, cada dos semanas. 
+Puedes encontrar las nuevas fechas e inscribirte aqui: https://docs.google.com/forms/d/1pByUdb9JqSCnzuyRr_aTTf73XJioTvIM0I5gwhy1Gxs/edit
 
-Primero debes forkear el repo que te indicaremos, haciendo click en el botón `fork` de arriba a la derecha.
 
-Una vez que tengas una copia de este repo en tu cuenta de `github`, cloná el repo dentro de una nueva carpeta (asegurate de no utilizar la misma que el prep curse). Una vez clonado entrá a esa carpeta y ejecutá los siguientes comandos:
 
-    python tests.py
+Los proximos inicios de la carrera se iran publicando en la landing de Data Science: https://www.soyhenry.com/carrera-data-science
 
->Si ves los tests fallando, estás listo para comenzar, si no lee bien el output para identificar el error.
-
-### 2. RESOLVER EL HENRY CHALLENGE
-
-Tu tarea es completar el código en `checkpoint.py` de tal forma que pasen la mayoría de los tests, incluido el extra credit.
-
-### 3. ENTREGAR TU CHECKPOINT
-
-Correr por ultima vez los tests y verificar cuantos pasan. Ten en cuenta que si te aparece "1 failed;1 total" es porque tienes un error de sintaxis: seguramente falta o sobra un corchete, paréntesis, dos puntos, etc.
-Saca un print de pantalla de tus tests.
-Luego, debes subir un commit a tu repo. Para hacerlo, debes ejecutar el siguiente comando:
-
-    git add .
-    git commit -m 'checkpoint commit'
-    git push origin main
-
-Una vez finalizado, chequea:
-1. Que veas los cambios reflejados en el repo de tu cuenta de github (entrando a tu repo desde el browser.)
-2.  Que no haya un require - solo debe haber codigo dentro de las funciones de cada ejercicio 
+Si tienes mas dudas sobre Henry, la carrera o el proceso de admisión puedes consultarlo en el canal #consultas_administrativas de Slack.
